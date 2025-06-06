@@ -78,11 +78,7 @@ Model yang digunakan:
 Training dilakukan selama beberapa epoch dengan **monitoring akurasi dan loss** untuk `train` dan `val`.
 
 ### 6️⃣ Visualisasi Prediksi
-
-Disediakan fungsi visualisasi prediksi hasil model untuk data validasi:
-
-- Menampilkan gambar
-- Label: Prediksi dan Ground Truth
+![download (8)](https://github.com/user-attachments/assets/f2abe4c0-bdcb-4fbf-928a-8d1371b6c2f5)
 
 ---
 
@@ -97,4 +93,4 @@ Disediakan fungsi visualisasi prediksi hasil model untuk data validasi:
 # ... (lihat bagian di notebook) ...
 ```
 
-### Bagian seterusnya lihat di folder terlampir
+### Bagian 2,3,4....7 seterusnya lihat di folder terlampir
