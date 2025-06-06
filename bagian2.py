@@ -1,3 +1,4 @@
+# Split Dataset ke Train dan Val
 base_dir = '/content/brain_tumor_dataset'
 
 train_dir = '/content/brain_tumor_dataset_train'
