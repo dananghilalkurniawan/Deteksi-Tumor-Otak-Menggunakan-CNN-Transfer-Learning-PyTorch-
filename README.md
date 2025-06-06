@@ -95,4 +95,6 @@ Disediakan fungsi visualisasi prediksi hasil model untuk data validasi:
 ### Bagian 1: Import Library dan Setup Device
 ```python
 # ... (lihat bagian di notebook) ...
+```
 
+### Bagian seterusnya lihat di folder terlampir
