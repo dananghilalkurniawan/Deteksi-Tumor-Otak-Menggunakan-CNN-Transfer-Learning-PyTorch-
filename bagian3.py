@@ -1,3 +1,4 @@
+# Definisikan Transformasi dan Load Dataset
 data_transforms = {
     'train': transforms.Compose([
         transforms.Resize((224,224)),
