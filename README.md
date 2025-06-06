@@ -27,10 +27,6 @@ Struktur folder setelah ekstrak:
 brain_tumor_dataset/
 ├── no/
 ├── yes/
-
-markdown
-Copy
-Edit
 ```
 
 Dataset ini berisi gambar MRI otak dengan dua kelas:
