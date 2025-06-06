@@ -11,14 +11,31 @@ Model yang digunakan adalah **ResNet18 (transfer learning)** dari pustaka `torch
 
 ## Dataset
 
-Dataset berupa gambar MRI otak dengan struktur awal:
+Dataset yang digunakan dalam proyek ini berasal dari Kaggle:
+
+👉 [Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection/data)
+
+Silakan unduh dataset dari link tersebut, lalu ekstrak ke folder:
+
+```
+/content/brain_tumor_dataset/
+```
+
+Struktur folder setelah ekstrak:
+
 ```
 brain_tumor_dataset/
 ├── no/
-└── yes/
+├── yes/
+
+markdown
+Copy
+Edit
 ```
 
-Folder `no` berisi gambar **tanpa tumor**, sedangkan folder `yes` berisi gambar **dengan tumor**.
+Dataset ini berisi gambar MRI otak dengan dua kelas:
+- **no** : Tidak terdapat tumor.
+- **yes** : Terdapat tumor.
 
 ---
 
